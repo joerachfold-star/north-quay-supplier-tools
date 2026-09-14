@@ -1,0 +1,3 @@
+Username: supplier.77dc5b4370e0445b@north-quay.com
+Password: CpqyofDYJEWGinoosID4GqrEG1g_ToCO
+Url: https://portal.north-quay.com/login
